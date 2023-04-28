@@ -1,0 +1,34 @@
+:root {
+    --mainColor : #ffc107;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 1000px;;
+}
+.navbar{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.card{
+    width: 80%;
+    margin: 30px;
+}
+.collapse{
+    padding-left: 10px;
+    margin-top: -10px;
+}
+.textReadMore {
+    padding-left: 30px;
+}
+.card-header {
+    margin-bottom: 10px;
+}
+.ord{
+    margin-top: 20px;
+}
+.btnDetails {
+    background-color:  var(--mainColor);
+}
+.btnDetails:hover{
+    background-color: var(--mainColor);
+}
